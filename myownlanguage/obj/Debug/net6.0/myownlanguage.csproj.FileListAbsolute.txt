@@ -1,0 +1,15 @@
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\bin\Debug\net6.0\myownlanguage.exe
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\bin\Debug\net6.0\myownlanguage.deps.json
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\bin\Debug\net6.0\myownlanguage.runtimeconfig.json
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\bin\Debug\net6.0\myownlanguage.dll
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\bin\Debug\net6.0\myownlanguage.pdb
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.csproj.AssemblyReference.cache
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.AssemblyInfoInputs.cache
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.AssemblyInfo.cs
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.csproj.CoreCompileInputs.cache
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.dll
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\refint\myownlanguage.dll
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.pdb
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\myownlanguage.genruntimeconfig.cache
+C:\Users\anura\OneDrive\Documents\College\Fall 2022\side projects\myownlanguage\myownlanguage\obj\Debug\net6.0\ref\myownlanguage.dll
